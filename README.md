@@ -1,5 +1,7 @@
 # Hangfire - ASP.NET Core Sample
 
+> Hangfire allows you to kick off method calls outside of the request processing pipeline in a very easy, but reliable way. These methods invocations are performed in a background thread and called background jobs.
+
 ## Steps
 
 - Install Packages (Hangfire.Core, Hangfire.AspNetCore, Hangfire.SqlServer)
